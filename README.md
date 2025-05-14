@@ -1,31 +1,93 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
-<h3 align="center">A Passionate Developer From India</h3>
+<h3 align="center">A Passionate Developer from India 🇮🇳</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sc1030&label=Profile%20views&color=0e75b6&style=flat" alt="sc1030" /> </p>
-
-- 🌱 I’m currently learning **Computer Sciences**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sc1030](https://github.com/sc1030)
-
-- 📫 How to reach me **sc1030830@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/sc1030/webpage/blob/main/Shyam%20resume.pdf](https://github.com/sc1030/webpage/blob/main/Shyam%20resume.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shyam sunder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyam sunder" height="30" width="40" /></a>
-<a href="https://instagram.com/shyamchouhan8890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shyamchouhan8890" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shyam chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shyam chouhan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shyam sunder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shyam sunder" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sc1030&label=Profile%20views&color=0e75b6&style=flat" alt="sc1030" />
+  <img src="https://img.shields.io/badge/LeetCode-592%20submissions%20in%20last%2012%20months-orange?style=flat&logo=leetcode" alt="leetcode-submissions" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sc1030&show_icons=true&locale=en&layout=compact" alt="sc1030" /></p>
+*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sc1030&show_icons=true&locale=en" alt="sc1030" /></p>
+### 🌱 Currently Learning
+- Computer Science (DSA, AI/ML, Full Stack)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sc1030&" alt="sc1030" /></p>
+### 💬 Ask Me About
+- React, Vue.js, GSAP, Python, Flask, Firebase
+
+### 📫 How to Reach Me
+- 📧 Email: **sc1030830@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/shyam-software-engineer/)
+- 📸 [Instagram](https://instagram.com/shyamchouhan8890)
+
+### 👨‍💻 Portfolio & Projects
+- 🔗 [GitHub](https://github.com/sc1030)
+- 📄 [Resume](https://github.com/sc1030/Resume/blob/main/Shyam%20Sunder%20best.pdf)
+
+
+
+### ⚡ Fun Fact
+- I think I’m funny 😄
+
+---
+
+## 🧠 Skills & Technologies
+
+### 🚀 Languages
+`C` `C++` `Java` `JavaScript` `Python` 
+
+### 💻 Frontend
+`React` `Vue.js` `Angular` `Svelte` `TailwindCSS` `Bootstrap` `GSAP` `HTML5` `CSS3`
+
+### 🔧 Backend
+`Node.js` `Express` `Flask` `Django` `Spring Boot` `GraphQL` `Kafka` `NestJS`
+
+### 🤖 AI/ML
+`TensorFlow` `PyTorch` `Pandas` `OpenCV` `Scikit-learn` `Seaborn` 
+
+### 🗄️ Databases
+`MySQL` `MongoDB` `PostgreSQL` `SQLite` `Redis` `Oracle` 
+
+### ☁️ DevOps & Cloud
+`Docker` 
+
+### 🛠 Tools & Software
+`Git` `Postman` `Figma` `Photoshop` `MATLAB` `VS Code` `Blender`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sc1030&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc1030&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sc1030&theme=radical" alt="github streak" />
+</p>
+
+---
+
+## 📊 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shyamchouhan?theme=dark&ext=heatmap)](https://leetcode.com/u/shyamchouhan/)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shyam-sunder" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://instagram.com/shyamchouhan8890" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/sc1030" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
+  <a href="mailto:sc1030830@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## ☕ Support
+
+If you like my work, consider buying me a coffee!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ff813f?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/your-username)
