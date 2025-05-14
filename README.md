@@ -106,7 +106,7 @@
 
 ## 📊 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/shyamchouhan?theme=dark&ext=heatmap)](https://leetcode.com/u/shyamchouhan/)
-
+## 🏅 LeetCode Badges
 
 <p align="center">
   <img src="https://github.com/sc1030/leetcode-badges/blob/main/2025-02.gif?raw=true" width="90"/>
