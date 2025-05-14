@@ -107,9 +107,9 @@
 ## 📊 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/shyamchouhan?theme=dark&ext=heatmap)](https://leetcode.com/u/shyamchouhan/)
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=shyamchouhan&animated=true&theme=github-dark&border=no-border" alt="LeetCode Badges" />
-🏆 Stay consistent. Keep growing. Proud of the streak!
-<p align="center"> <img src="https://leetcard.jacoblin.cool/shyamchouhan?theme=dark&ext=heatmap" alt="LeetCode Stats" /> </p>
+🏅 My LeetCode Badges
+<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 10px;"> <img src="https://img.icons8.com/fluency/48/null/medal.png" title="Top SQL 50 - Study Plan Badge" /> <img src="https://assets.leetcode.com/streaks/100days_badge_2025.png" alt="100 Days Badge 2025" height="80"/> <img src="https://assets.leetcode.com/streaks/50days_badge_2025.png" alt="50 Days Badge 2025" height="80"/> <img src="https://assets.leetcode.com/streaks/200days_badge_2024.png" alt="200 Days Badge 2024" height="80"/> <img src="https://assets.leetcode.com/streaks/100days_badge_2024.png" alt="100 Days Badge 2024" height="80"/> <img src="https://assets.leetcode.com/streaks/50days_badge_2024.png" alt="50 Days Badge 2024" height="80"/> <img src="https://assets.leetcode.com/monthly/feb_2025_badge.png" alt="Feb Badge" height="80"/> <img src="https://assets.leetcode.com/monthly/mar_2025_badge.png" alt="Mar Badge" height="80"/> <img src="https://assets.leetcode.com/monthly/apr_2025_badge.png" alt="Apr Badge" height="80"/> <img src="https://assets.leetcode.com/monthly/jan_2025_badge.png" alt="Jan Badge" height="80"/> <img src="https://assets.leetcode.com/monthly/dec_2024_badge.png" alt="Dec Badge" height="80"/> <img src="https://assets.leetcode.com/monthly/nov_2024_badge.png" alt="Nov Badge" height="80"/> <img src="https://assets.leetcode.com/monthly/oct_2024_badge.png" alt="Oct Badge" height="80"/> <img src="https://assets.leetcode.com/monthly/sep_2024_badge.png" alt="Sep Badge" height="80"/> <img src="https://assets.leetcode.com/monthly/aug_2024_badge.png" alt="Aug Badge" height="80"/> <img src="https://assets.leetcode.com/monthly/jul_2024_badge.png" alt="Jul Badge" height="80"/> </div>
+
 
 
 
