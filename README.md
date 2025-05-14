@@ -109,7 +109,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-07.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-08.gif?raw=true" width="90"/>
+<img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-100.gif?raw=true" width="90"/>
 <img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-09.gif?raw=true" width="90"/>
 <img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-10.gif?raw=true" width="90"/>
 <img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-11.gif?raw=true" width="90"/>
