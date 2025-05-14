@@ -109,7 +109,10 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/shyamchouhan?theme=dark&ext=heatmap)](https://leetcode.com/u/shyamchouhan/)
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=shyamchouhan&animated=true&theme=github-dark&border=no-border" alt="LeetCode Badges" />
 🏆 Stay consistent. Keep growing. Proud of the streak!
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=shyamchouhan&filter=study&theme=dracula&animated=true&border=no-border" alt="LeetCode Study Plan Badges" />
+<p align="left"> <img src="https://leetcode-badge-showcase.vercel.app/api?username=shyamchouhan&layout=horizontal&theme=github-dark&animated=true&border=no-border" alt="LeetCode Badges" /> </p>
+🧠 Total Submissions (Last Year): 592+    🥇 Study Plan: Top SQL 50
+🔗 View my profile
+
 
 
 
