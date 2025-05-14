@@ -108,7 +108,7 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/shyamchouhan?theme=dark&ext=heatmap)](https://leetcode.com/u/shyamchouhan/)
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-  <img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-07.gif?raw=true" width="90"/>
+<img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-07.gif?raw=true" width="90"/>
 <img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-100.gif?raw=true" width="90"/>
 <img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-09.gif?raw=true" width="90"/>
 <img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-10.gif?raw=true" width="90"/>
