@@ -106,7 +106,45 @@
 
 ## 📊 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shyamchouhan?theme=dark&ext=heatmap)](https://leetcode.com/u/shyamchouhan/)
+<p align="left"> <a href="https://leetcode.com/u/shyamchouhan/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-@shyamchouhan-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/> </a> </p>
+🏅 Badge Highlights
+🎯 Total Submissions (past year): 592+
+
+🥇 Study Plan Badge: Top SQL 50
+
+🗓️ Annual Streak Badges
+🟡 100 Days Badge 2025 (Earned: Apr 12, 2025)
+
+🟡 50 Days Badge 2025 (Earned: Feb 21, 2025)
+
+🟢 200 Days Badge 2024 (Active)
+
+🟡 100 Days Badge 2024 (Earned: Aug 28, 2024)
+
+🟡 50 Days Badge 2024 (Earned: Jul 09, 2024)
+
+📆 Monthly Badge Streaks
+🗓️ April 2025
+
+🗓️ March 2025
+
+🗓️ February 2025
+
+🗓️ January 2025
+
+🗓️ December 2024
+
+🗓️ November 2024
+
+🗓️ October 2024
+
+🗓️ September 2024
+
+🗓️ August 2024
+
+🗓️ July 2024
+
+
 
 ## 🌐 Connect with Me
 
