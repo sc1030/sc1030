@@ -108,22 +108,18 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/shyamchouhan?theme=dark&ext=heatmap)](https://leetcode.com/u/shyamchouhan/)
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-07.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-100.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-09.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-10.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-11.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-12.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/2025-01.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/2025-02.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/2025-03.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/2025-04.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/50days-2024.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/100days-2024.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/200days-2024.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/50days-2025.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/100days-2025.gif?raw=true" width="90"/>
-<img src="https://github.com/sc1030/leetcode-badges/blob/main/top-sql.gif?raw=true" width="90"/>
+<p align="center">
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/2025-02.gif?raw=true" width="90"/>
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/2025-03.gif?raw=true" width="90"/>
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/2025-04.gif?raw=true" width="90"/>
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/100days-2025.gif?raw=true" width="90"/>
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/50days-2025.gif?raw=true" width="90"/>
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/200days-2024.gif?raw=true" width="90"/>
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/100days-2024.gif?raw=true" width="90"/>
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/50days-2024.gif?raw=true" width="90"/>
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/top-sql.gif?raw=true" width="90"/>
+</p>
+
 
 </div>
 
