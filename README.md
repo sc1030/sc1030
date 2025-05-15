@@ -1,29 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
-<h3 align="center">A Passionate Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Developer From India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sc1030&label=Profile%20views&color=0e75b6&style=flat" alt="sc1030" />
-  <img src="https://img.shields.io/badge/LeetCode-592%20submissions%20in%20last%2012%20months-orange?style=flat&logo=leetcode" alt="leetcode-submissions" />
+<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sc1030&label=Profile%20views&color=0e75b6&style=flat" alt="sc1030" /> </p>
+
+- 🌱 I’m currently learning **Computer Sciences**
+
+- 👨‍💻 All of my projects are available at [https://github.com/sc1030](https://github.com/sc1030)
+
+- 📫 How to reach me **sc1030830@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/sc1030/webpage/blob/main/Shyam%20resume.pdf](https://github.com/sc1030/webpage/blob/main/Shyam%20resume.pdf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shyam sunder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyam sunder" height="30" width="40" /></a>
+<a href="https://instagram.com/shyamchouhan8890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shyamchouhan8890" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shyam chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shyam chouhan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shyam sunder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shyam sunder" height="30" width="40" /></a>
 </p>
-
-
-### 🌱 Currently Learning
-- Computer Science (DSA, AI/ML, Full Stack)
-
-### 💬 Ask Me About
-- React, Vue.js, GSAP, Python, Flask, Firebase
-
-### 📫 How to Reach Me
-- 📧 Email: **sc1030830@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/shyam-software-engineer/)
-- 📸 [Instagram](https://instagram.com/shyamchouhan8890)
-
-### 👨‍💻 Portfolio & Projects
-- 🔗 [GitHub](https://github.com/sc1030)
-- 📄 [Resume](https://github.com/sc1030/Resume/blob/main/Shyam%20Sunder%20best.pdf)
-
-### ⚡ Fun Fact
-- I think I’m funny 😄
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
