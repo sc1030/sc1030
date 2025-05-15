@@ -7,24 +7,38 @@
 </p>
 
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" />
+### 🌱 Currently Exploring
+- 🔧 Deepening knowledge in **Data Structures & Algorithms**
+- 🤖 Advancing in **AI/ML**, working on real-time intelligent apps
+- 🌐 Building scalable **Full Stack Web Apps** using modern tech
 
-### 🌱 Currently Learning
-- Computer Science (DSA, AI/ML, Full Stack)
+---
 
 ### 💬 Ask Me About
-- React, Vue.js, Python, Flask, Firebase, GSAP
+- ⚛️ **Frontend:** React.js, Vue.js, GSAP
+- 🐍 **Backend:** Python, Flask, Firebase
+- 🔌 **Integration:** REST APIs, Authentication, Firestore, Realtime DB
+- 🎯 Optimization, UI/UX, and modern web animation
 
-### 📫 How to Reach Me
-- 📧 Email: **sc1030830@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/shyam-software-engineer/)
-- 📸 [Instagram](https://instagram.com/shyamchouhan8890)
+---
 
-### 👨‍💻 Portfolio & Projects
-- 🔗 [GitHub](https://github.com/sc1030)
-- 📄 [Resume](https://github.com/sc1030/Resume/blob/main/Shyam%20Sunder%20best.pdf)
+### 📬 Let's Connect
+- 📧 **Email:** [sc1030830@gmail.com](mailto:sc1030830@gmail.com)
+- 💼 **LinkedIn:** [Shyam Sunder](https://www.linkedin.com/in/shyam-software-engineer/)
+- 📸 **Instagram:** [@shyamchouhan8890](https://instagram.com/shyamchouhan8890)
 
-### 🌟 Fun Fact
-- I think I’m funny 😄 – Let's connect and code something awesome!
+---
+
+### 👨‍💻 My Work & Presence
+- 🔗 **GitHub:** [github.com/sc1030](https://github.com/sc1030)
+- 🗂️ **Resume:** [View My Resume](https://github.com/sc1030/Resume/blob/main/Shyam%20Sunder%20best.pdf)
+- 🧠 **Projects:** AI Chatbots, Real-time Apps, Face Recognition, Dashboards
+
+---
+
+### ⚡ Fun Fact
+> 💡 *I turn coffee ☕ into code — and bugs into features 😄*
+
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
