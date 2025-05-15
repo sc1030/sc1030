@@ -29,14 +29,8 @@
 ## 💬 Ask Me About
 - React, Vue.js, Python, Flask, Firebase, GSAP, APIs, DevOps
 
-## ✉️ How to Reach Me
-- 📧 Email: **sc1030830@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/shyam-software-engineer/)
-- 📸 [Instagram](https://instagram.com/shyamchouhan8890)
+💬 Tech Stack: React, Vue.js, Python, Flask, Firebase, GSAP, APIs, DevOps | ✉️ [Email](mailto:sc1030830@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/shyam-software-engineer/) | 📸 [Instagram](https://instagram.com/shyamchouhan8890) | 🔗 [GitHub](https://github.com/sc1030) | 📄 [Resume](https://github.com/sc1030/Resume/blob/main/Shyam%20Sunder%20best.pdf)
 
-## 👨‍💻 Portfolio & Projects
-- 🔗 [GitHub](https://github.com/sc1030)
-- 📄 [Resume](https://github.com/sc1030/Resume/blob/main/Shyam%20Sunder%20best.pdf)
 
 ## ✨ Fun Fact
 - I think I’m funny 😄 – Let's connect and code something awesome together!
