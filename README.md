@@ -2,42 +2,45 @@
 <h3 align="center">A Passionate Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sc1030&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/LeetCode-592%20Submissions-orange?style=flat&logo=leetcode" alt="LeetCode Submissions" />
+  <img src="https://komarev.com/ghpvc/?username=sc1030&label=Profile%20views&color=0e75b6&style=flat" alt="sc1030" />
+  <img src="https://img.shields.io/badge/LeetCode-592%20submissions%20in%20last%2012%20months-orange?style=flat&logo=leetcode" alt="leetcode-submissions" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" />
-### 🌱 Currently Exploring
-- 🔧 Deepening knowledge in **Data Structures & Algorithms**
-- 🤖 Advancing in **AI/ML**, working on real-time intelligent apps
-- 🌐 Building scalable **Full Stack Web Apps** using modern tech
+<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 ---
 
-### 💬 Ask Me About
-- ⚛️ **Frontend:** React.js, Vue.js, GSAP
-- 🐍 **Backend:** Python, Flask, Firebase
-- 🔌 **Integration:** REST APIs, Authentication, Firestore, Realtime DB
-- 🎯 Optimization, UI/UX, and modern web animation
+## ✨ Advanced Portfolio Snapshot
+
+<div align="left">
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-100-lg.png" width="100"/>
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/2024-50-lg.png" width="100"/>
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/dcc-2024-11.png" width="100"/>
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/dcc-2024-12.png" width="100"/>
+  <img src="https://github.com/sc1030/leetcode-badges/blob/main/dcc-2024-8.png" width="100"/>
+</div>
 
 ---
 
-### 📬 Let's Connect
-- 📧 **Email:** [sc1030830@gmail.com](mailto:sc1030830@gmail.com)
-- 💼 **LinkedIn:** [Shyam Sunder](https://www.linkedin.com/in/shyam-software-engineer/)
-- 📸 **Instagram:** [@shyamchouhan8890](https://instagram.com/shyamchouhan8890)
+## 🌱 Currently Learning
+- 🧠 AI/ML, Full Stack Web Dev, DSA, Systems Design
+- 🎓 Computer Science Fundamentals
 
----
+## 💬 Ask Me About
+- React, Vue.js, Python, Flask, Firebase, GSAP, APIs, DevOps
 
-### 👨‍💻 My Work & Presence
-- 🔗 **GitHub:** [github.com/sc1030](https://github.com/sc1030)
-- 🗂️ **Resume:** [View My Resume](https://github.com/sc1030/Resume/blob/main/Shyam%20Sunder%20best.pdf)
-- 🧠 **Projects:** AI Chatbots, Real-time Apps, Face Recognition, Dashboards
+## ✉️ How to Reach Me
+- 📧 Email: **sc1030830@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/shyam-software-engineer/)
+- 📸 [Instagram](https://instagram.com/shyamchouhan8890)
 
----
+## 👨‍💻 Portfolio & Projects
+- 🔗 [GitHub](https://github.com/sc1030)
+- 📄 [Resume](https://github.com/sc1030/Resume/blob/main/Shyam%20Sunder%20best.pdf)
 
-### ⚡ Fun Fact
-> 💡 *I turn coffee ☕ into code — and bugs into features 😄*
+## ✨ Fun Fact
+- I think I’m funny 😄 – Let's connect and code something awesome together!
+
 
 
 
