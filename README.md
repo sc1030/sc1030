@@ -23,24 +23,6 @@
 - 🔗 [GitHub](https://github.com/sc1030)
 - 📄 [Resume](https://github.com/sc1030/Resume/blob/main/Shyam%20Sunder%20best.pdf)
 
-### 🏅 LeetCode Badges
-<p align="center">
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/2025-02.gif" width="90"/>
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/2025-03.gif" width="90"/>
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/2025-04.gif" width="90"/>
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/100days-2025.gif" width="90"/>
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/50days-2025.gif" width="90"/>
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/200days-2024.gif" width="90"/>
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/100days-2024.gif" width="90"/>
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/50days-2024.gif" width="90"/>
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/top-sql.gif" width="90"/>
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/2024-100-lg.png" width="90"/>
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/2024-50-lg.png" width="90"/>
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/dcc-2024-8.png" width="90"/>
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/dcc-2024-11.png" width="90"/>
-  <img src="https://github.com/sc1030/leetcode-badges/raw/main/dcc-2024-12.png" width="90"/>
-</p>
-
 ### 🌟 Fun Fact
 - I think I’m funny 😄 – Let's connect and code something awesome!
 
