@@ -23,7 +23,7 @@
 ---
 
 ## 🌱 Currently Learning
-- 🧠 AI/ML, Full Stack Web Dev, DSA, Systems Design
+- 🧠 AI/ML, data science ,  Dev, DSA, Systems Design
 - 🎓 Computer Science Fundamentals
 
 ## 💬 Ask Me About
